@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    margin-bottom: 10px;
+}
+.container div{
+    display: flex;
+    align-items: center;
+}
+
+img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+
